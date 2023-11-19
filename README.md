@@ -1,4 +1,4 @@
-<h2> Hi 👋 I am JungWoo!  width="50" </h2>
+<h2> Hi 👋 I am JungWoo! </h2>
 
 
 ```javascript
