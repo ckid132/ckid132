@@ -1,5 +1,5 @@
 <h2> Hi 👋 I am JungWoo! </h2>
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='150"'>
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='100"'>
 
 ```javascript
 // tools_I_use organized
