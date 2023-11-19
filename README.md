@@ -2,16 +2,17 @@
 
 
 ```javascript
-const Finn = {
-  pronouns: "He" | "he",
-  code: [Javascript, c/c++, HTML, CSS, Python,],
-  tools: [Node, Open cv, Ros],
-  MY challenge: {
-                        1. Serving Robot",
-                        2. Bug Detector",
-                        3. Object Dection And Tracking Camera"
-                      },
- challenge: "I am doing algorithm with C/C++"
+// tools_I_use organized
+
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "Database" : { "Firebase", "Sqlite" },
+    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
+    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+  };
 }
 ```
 
