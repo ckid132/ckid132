@@ -1,12 +1,18 @@
-Hi 👋 I am JungWoo!
+<h2> Hi 👋 I am JungWoo! </h2>
 
-// tools_I_use organized
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Python", "c/c++" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows", "ROS2" },
-  };
+```javascript
+const Finn = {
+  pronouns: "He" | "he",
+  code: [Javascript, c/c++, HTML, CSS, Python,],
+  tools: [Node, Open cv, Ros],
+  MY challenge: {
+                        1. Serving Robot",
+                        2. Bug Detector",
+                        3. Object Dection And Tracking Camera"
+                      },
+ challenge: "I am doing algorithm with C/C++"
 }
+```
+
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
