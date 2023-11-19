@@ -10,9 +10,8 @@ class About JW {
     "OtherLanguages" : { "HTML", "CSS", "Bash" },
     "Database" : { "SQL" },
     "Editors" : { "Vscode" },
-    "Tools" :  { Node, OpenCV, ROS2 },
     "Platforms" : { "Mac", "Linux", "Windows" },
-    "OtherTools" : { "Git" }
+    "OtherTools" : { "Git,  Node, OpenCV, ROS2" }
   };
 }
 ```
