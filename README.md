@@ -16,4 +16,4 @@ class About JW {
 }
 ```
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='250'>
+<img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='250'>
