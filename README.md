@@ -1,6 +1,6 @@
 <h2> Hi 👋 I am JungWoo! </h2>
 
-
+<img align='right' src="free-sticker-developer-9394519.png" width="230">
 ```javascript
 // tools_I_use organized
 
