@@ -1,4 +1,7 @@
-const Finn = {
+Hi 👋 I am JungWoo!
+
+
+  const Finn = {
   pronouns: "He" | "he",
   code: [Javascript, c/c++, HTML, CSS, Python,],
   tools: [Node, Open cv, Ros],
