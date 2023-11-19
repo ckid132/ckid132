@@ -1,4 +1,4 @@
-<h2> - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;<br>  Hello 👋 I am JungWoo! </h2>
+<h2>  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;  Hello 👋 I am JungWoo! </h2>
 
 
 ```javascript
