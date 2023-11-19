@@ -1,4 +1,4 @@
-<h2> Hi 👋 I am JungWoo! </h2>
+<h2> Hello 👋 I am JungWoo! </h2>
 
 
 ```javascript
@@ -17,4 +17,4 @@ class About JW {
 }
 ```
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='150'>
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='250'>
