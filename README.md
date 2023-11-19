@@ -6,14 +6,14 @@
 
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+    "ProgramingLanguages" : { "Python", "Javascript", "c/c++" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash" },
+    "Database" : { "SQL" },
+    "Editors" : { "Vscode" },
+    "tools" :  { Node, OpenCV, ROS2 },
+    "Platforms" : { "Mac", "Linux", "Windows" },
+    "OtherTools" : { "Git" }
   };
 }
 ```
-
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='150"'>
