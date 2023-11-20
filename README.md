@@ -1,4 +1,4 @@
-<h2>  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;  Hello 👋 I am JungWoo! </h2>
+<h2>  Hello 👋 I am JungWoo! </h2>
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='250'>
 <p><em>Software Enginner at AIOT Robot Development Education<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
